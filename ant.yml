@@ -1,0 +1,6 @@
+name: java CI
+run-name: 
+on: [push]
+jobs:
+build:
+runs-on: 
